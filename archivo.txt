@@ -1,1 +1,1 @@
-archivo modificado desde rama main
+archivo solucionado
